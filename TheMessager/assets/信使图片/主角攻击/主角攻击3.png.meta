@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c237109f-eeab-440b-b133-6257bf4fd413",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "主角攻击3": {
+      "ver": "1.0.3",
+      "uuid": "721e357b-e701-46a2-8e75-5234f091d931",
+      "rawTextureUuid": "c237109f-eeab-440b-b133-6257bf4fd413",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -66.5,
+      "offsetY": -35,
+      "trimX": 543,
+      "trimY": 402,
+      "width": 141,
+      "height": 76,
+      "rawWidth": 1360,
+      "rawHeight": 810,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

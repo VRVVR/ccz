@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "主角右跳动画",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7857142857142857,
+  "sample": 14,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3b90d95f-f7bc-4994-9d33-ffaf8670595b"
+            }
+          },
+          {
+            "frame": 0.2857142857142857,
+            "value": {
+              "__uuid__": "c77f1965-cc43-49b2-8ba2-f850eb000661"
+            }
+          },
+          {
+            "frame": 0.35714285714285715,
+            "value": {
+              "__uuid__": "2859eaa2-2adc-453a-8536-2d5eb4284153"
+            }
+          },
+          {
+            "frame": 0.42857142857142855,
+            "value": {
+              "__uuid__": "bba9cd0f-e151-4de4-a2cd-69f437fc2b60"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "c77f1965-cc43-49b2-8ba2-f850eb000661"
+            }
+          },
+          {
+            "frame": 0.5714285714285714,
+            "value": {
+              "__uuid__": "2859eaa2-2adc-453a-8536-2d5eb4284153"
+            }
+          },
+          {
+            "frame": 0.6428571428571429,
+            "value": {
+              "__uuid__": "bba9cd0f-e151-4de4-a2cd-69f437fc2b60"
+            }
+          },
+          {
+            "frame": 0.7142857142857143,
+            "value": {
+              "__uuid__": "5c26fc5d-8bbc-4c00-8113-e34baee8542d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

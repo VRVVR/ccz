@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "主角爆炸动画",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f226af9e-e508-4f8c-b73d-86204b3f5495"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "69083eda-ca07-45d3-9c80-dfaaa15e246c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "456d0b0a-5828-4a3b-9ea6-e395cb057afc"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "9d1b7de5-9a4d-4976-b25e-cc677cc195f4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

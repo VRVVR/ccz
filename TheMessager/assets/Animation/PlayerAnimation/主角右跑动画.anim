@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "主角右跑动画",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "69fbfae6-d54b-43f2-abdb-b449e7ec5e5b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "af6fb41b-3b9f-4231-b212-e5be7d1e908a"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d28c2f35-339b-429e-97da-450ea89c5c15"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "4884270a-0bdf-4f25-9222-0d4fe88deabd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

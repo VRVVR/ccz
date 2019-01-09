@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "主角左跑动画",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "35ddd02c-ed03-4715-8de0-8cabe131cbbf"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "32371a6e-fa12-4b31-8211-6f9711a96748"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "f17ec391-cd46-4c1f-9f2b-b821c46d9787"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "b19ddfe5-e6aa-4f0c-9a3f-a327eba48bad"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

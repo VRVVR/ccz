@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "667df5db-4b63-4ecb-9c32-0221e760b217",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "主角左贴": {
+      "ver": "1.0.3",
+      "uuid": "d0a7c951-0bc0-43eb-9d8c-3bcc7c79aa09",
+      "rawTextureUuid": "667df5db-4b63-4ecb-9c32-0221e760b217",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -534,
+      "offsetY": -175,
+      "trimX": 117,
+      "trimY": 534,
+      "width": 58,
+      "height": 92,
+      "rawWidth": 1360,
+      "rawHeight": 810,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
